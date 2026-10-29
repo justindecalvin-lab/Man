@@ -1,5 +1,5 @@
 [build]
-  command = "node ensure-entry.cjs && npm run build"
+  command = "node ensure-entry.cjs"
   publish = "recovered-site"
 
 
