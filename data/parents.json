@@ -1,0 +1,101 @@
+[
+  {
+    "id": "parent-1",
+    "email": "adeleke.family@gmail.com",
+    "phone": "+234 803 445 6789",
+    "address": "Block 4, Agodi GRA, Ibadan, Oyo State",
+    "fullName": "Chief & Mrs. Adebayo Adeleke",
+    "password": "parent2025",
+    "childrenIds": [
+      "stu-1"
+    ]
+  },
+  {
+    "id": "parent-2",
+    "email": "akindele.eng@yahoo.com",
+    "phone": "+234 802 887 6543",
+    "address": "14 Oluyole Estate, Ring Road, Ibadan",
+    "fullName": "Engr. & Dr. Akindele",
+    "password": "parent2025",
+    "childrenIds": [
+      "stu-2"
+    ]
+  },
+  {
+    "id": "parent-3",
+    "email": "okafor.family@gmail.com",
+    "phone": "+234 809 112 3456",
+    "address": "Bodija Residential Quarters, Ibadan",
+    "fullName": "Mr. & Mrs. Obinna Okafor",
+    "password": "parent2025",
+    "childrenIds": [
+      "stu-3"
+    ]
+  },
+  {
+    "id": "parent-4",
+    "email": "fashola.law@gmail.com",
+    "phone": "+234 805 776 5432",
+    "address": "Jericho GRA, Ibadan",
+    "fullName": "Barrister Fashola",
+    "password": "parent2025",
+    "childrenIds": [
+      "stu-4"
+    ]
+  },
+  {
+    "id": "parent-5",
+    "email": "oghomwen.clinic@gmail.com",
+    "phone": "+234 803 998 7766",
+    "address": "New Bodija Estate, Ibadan",
+    "fullName": "Dr. Osas Oghomwen",
+    "password": "parent2025",
+    "childrenIds": [
+      "stu-5"
+    ]
+  },
+  {
+    "id": "parent-6",
+    "email": "danjuma.holdings@gmail.com",
+    "phone": "+234 807 443 2211",
+    "address": "Iyaganku Quarters, Ibadan",
+    "fullName": "Alhaji & Hajia Danjuma",
+    "password": "parent2025",
+    "childrenIds": [
+      "stu-6"
+    ]
+  },
+  {
+    "id": "parent-7",
+    "email": "bello.family@gmail.com",
+    "phone": "+234 802 334 5566",
+    "address": "Akobo Estate, Ibadan",
+    "fullName": "Mr. & Mrs. Bello",
+    "password": "parent2025",
+    "childrenIds": [
+      "stu-7"
+    ]
+  },
+  {
+    "id": "parent-8",
+    "email": "nnamdi.family@gmail.com",
+    "phone": "+234 805 667 8899",
+    "address": "Alalubosa Layout, Ibadan",
+    "fullName": "Chief Nnamdi",
+    "password": "parent2025",
+    "childrenIds": [
+      "stu-8"
+    ]
+  },
+  {
+    "id": "parent-1793072586499",
+    "email": "",
+    "phone": "08033542203",
+    "address": "",
+    "fullName": "Micheal",
+    "password": "parent2025",
+    "childrenIds": [
+      "stu-online-1792735206693-872"
+    ]
+  }
+]

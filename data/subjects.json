@@ -1,0 +1,524 @@
+[
+  {
+    "id": "sub-1",
+    "code": "MTH",
+    "name": "Mathematics",
+    "description": "Pure and applied mathematics",
+    "applicableLevels": [
+      "Early Years",
+      "Primary",
+      "Junior Secondary",
+      "Senior Secondary"
+    ],
+    "applicableCategories": [
+      "Early Years",
+      "Primary",
+      "Junior Secondary",
+      "Senior Secondary"
+    ]
+  },
+  {
+    "id": "sub-2",
+    "code": "ENG",
+    "name": "English Language",
+    "description": "Grammar, composition, comprehension, and oral English",
+    "applicableLevels": [
+      "Early Years",
+      "Primary",
+      "Junior Secondary",
+      "Senior Secondary"
+    ],
+    "applicableCategories": [
+      "Early Years",
+      "Primary",
+      "Junior Secondary",
+      "Senior Secondary"
+    ]
+  },
+  {
+    "id": "sub-3",
+    "code": "PHY",
+    "name": "Physics",
+    "description": "Mechanics, electricity, optics, and modern physics",
+    "applicableLevels": [
+      "Senior Secondary"
+    ],
+    "applicableCategories": [
+      "Senior Secondary"
+    ]
+  },
+  {
+    "id": "sub-4",
+    "code": "CHM",
+    "name": "Chemistry",
+    "description": "Physical, inorganic, and organic chemistry",
+    "applicableLevels": [
+      "Senior Secondary"
+    ],
+    "applicableCategories": [
+      "Senior Secondary"
+    ]
+  },
+  {
+    "id": "sub-5",
+    "code": "BIO",
+    "name": "Biology",
+    "description": "Cell biology, physiology, ecology, and genetics",
+    "applicableLevels": [
+      "Senior Secondary"
+    ],
+    "applicableCategories": [
+      "Senior Secondary"
+    ]
+  },
+  {
+    "id": "sub-6",
+    "code": "SIS",
+    "name": "Intermediate Science",
+    "description": "Foundations of integrated science",
+    "applicableLevels": [
+      "Junior Secondary"
+    ],
+    "applicableCategories": [
+      "Junior Secondary"
+    ]
+  },
+  {
+    "id": "sub-7",
+    "code": "CHS",
+    "name": "Citizenship and Heritage Studies ",
+    "department": "Humanities",
+    "description": "Citizenship, ethics, and democratic principles",
+    "applicableLevels": [
+      "Junior Secondary",
+      "Senior Secondary"
+    ],
+    "applicableCategories": [
+      "Primary",
+      "Junior Secondary",
+      "Senior Secondary"
+    ]
+  },
+  {
+    "id": "sub-8",
+    "code": "DT",
+    "name": "Digital Technology ",
+    "department": "Vocational & Tech",
+    "description": "Information technology, coding, and digital literacy",
+    "applicableLevels": [
+      "Junior Secondary",
+      "Senior Secondary"
+    ],
+    "applicableCategories": [
+      "Primary",
+      "Junior Secondary",
+      "Senior Secondary"
+    ]
+  },
+  {
+    "id": "sub-9",
+    "code": "ECO",
+    "name": "Economics",
+    "description": "Macro and micro-economics",
+    "applicableLevels": [
+      "Senior Secondary"
+    ],
+    "applicableCategories": [
+      "Senior Secondary"
+    ]
+  },
+  {
+    "id": "sub-10",
+    "code": "LIT",
+    "name": "Literature in English",
+    "description": "Prose, poetry, drama, and African literature",
+    "applicableLevels": [
+      "Senior Secondary"
+    ],
+    "applicableCategories": [
+      "Senior Secondary"
+    ]
+  },
+  {
+    "id": "sub-11",
+    "code": "LSF",
+    "name": "Livestock Farming",
+    "department": "Vocational & Tech",
+    "description": "Crop science, animal husbandry, and agricultural economics",
+    "applicableLevels": [
+      "Junior Secondary",
+      "Senior Secondary"
+    ],
+    "applicableCategories": [
+      "Junior Secondary",
+      "Senior Secondary"
+    ]
+  },
+  {
+    "id": "sub-12",
+    "code": "FMT",
+    "name": "Further Mathematics",
+    "description": "Advanced calculus, matrices, and applied reasoning",
+    "applicableLevels": [
+      "Senior Secondary"
+    ],
+    "applicableCategories": [
+      "Senior Secondary"
+    ]
+  },
+  {
+    "id": "sub-13",
+    "code": "FRN",
+    "name": "French Language",
+    "description": "French vocabulary, grammar, and conversational drills",
+    "applicableLevels": [
+      "Primary",
+      "Junior Secondary",
+      "Senior Secondary"
+    ],
+    "applicableCategories": [
+      "Primary",
+      "Junior Secondary",
+      "Senior Secondary"
+    ]
+  },
+  {
+    "id": "sub-14",
+    "code": "HIS",
+    "name": "History",
+    "department": "Humanities",
+    "description": "Nigerian History ",
+    "applicableLevels": [
+      "Junior Secondary",
+      "Primary",
+      "Early Years"
+    ],
+    "applicableCategories": [
+      "Senior Secondary"
+    ]
+  },
+  {
+    "id": "sub-1793085091117",
+    "code": "GOV",
+    "name": "Government",
+    "department": "Humanities",
+    "description": "The law and government studies ",
+    "applicableLevels": [
+      "Senior Secondary"
+    ],
+    "applicableCategories": [
+      "Senior Secondary"
+    ]
+  },
+  {
+    "id": "sub-1793085168266",
+    "code": "BST",
+    "name": "Business Studies",
+    "department": "Commercial",
+    "description": "Book keeping, balancing books and business management ",
+    "applicableLevels": [
+      "Junior Secondary"
+    ],
+    "applicableCategories": [
+      "Junior Secondary"
+    ]
+  },
+  {
+    "id": "sub-1793085213193",
+    "code": "YOR",
+    "name": "Yoruba",
+    "department": "Languages",
+    "description": "Nigerian language ",
+    "applicableLevels": [
+      "Senior Secondary",
+      "Primary",
+      "Early Years",
+      "Junior Secondary"
+    ],
+    "applicableCategories": [
+      "Senior Secondary",
+      "Primary",
+      "Early Years",
+      "Junior Secondary"
+    ]
+  },
+  {
+    "id": "sub-1793096617151",
+    "code": "CCA",
+    "name": "Cultural and Creative Arts ",
+    "department": "Humanities",
+    "description": "",
+    "applicableLevels": [
+      "Primary",
+      "Junior Secondary",
+      "Early Years"
+    ],
+    "applicableCategories": [
+      "Primary",
+      "Junior Secondary",
+      "Early Years"
+    ]
+  },
+  {
+    "id": "sub-1793096706221",
+    "code": "PHE",
+    "name": "Physical & Health Education ",
+    "department": "Humanities",
+    "description": "",
+    "applicableLevels": [
+      "Primary",
+      "Early Years",
+      "Junior Secondary"
+    ],
+    "applicableCategories": [
+      "Primary",
+      "Early Years",
+      "Junior Secondary"
+    ]
+  },
+  {
+    "id": "sub-1793096749248",
+    "code": "SCS",
+    "name": "Social & Citizenship Studies",
+    "department": "Humanities",
+    "description": "",
+    "applicableLevels": [
+      "Primary",
+      "Junior Secondary",
+      "Early Years"
+    ],
+    "applicableCategories": [
+      "Primary",
+      "Junior Secondary",
+      "Early Years"
+    ]
+  },
+  {
+    "id": "sub-1793096775514",
+    "code": "COMP",
+    "name": "Computer",
+    "department": "Vocational & Tech",
+    "description": "",
+    "applicableLevels": [
+      "Early Years",
+      "Primary"
+    ],
+    "applicableCategories": [
+      "Early Years",
+      "Primary"
+    ]
+  },
+  {
+    "id": "sub-1793096797056",
+    "code": "WRT",
+    "name": "Writing",
+    "department": "Humanities",
+    "description": "",
+    "applicableLevels": [
+      "Early Years",
+      "Primary"
+    ],
+    "applicableCategories": [
+      "Early Years",
+      "Primary"
+    ]
+  },
+  {
+    "id": "sub-1793096827833",
+    "code": "PVS",
+    "name": "Prevocational Studies ",
+    "department": "Vocational & Tech",
+    "description": "",
+    "applicableLevels": [
+      "Primary",
+      "Junior Secondary",
+      "Early Years"
+    ],
+    "applicableCategories": [
+      "Primary",
+      "Junior Secondary",
+      "Early Years"
+    ]
+  },
+  {
+    "id": "sub-1793096864250",
+    "code": "BSE",
+    "name": "Basic Science & Technology ",
+    "department": "Sciences",
+    "description": "",
+    "applicableLevels": [
+      "Early Years",
+      "Primary"
+    ],
+    "applicableCategories": [
+      "Early Years",
+      "Primary"
+    ]
+  },
+  {
+    "id": "sub-1793102070633",
+    "code": "CRS",
+    "name": "Cristian Religious studies",
+    "department": "Humanities",
+    "description": "",
+    "applicableLevels": [
+      "Senior Secondary",
+      "Early Years",
+      "Primary",
+      "Junior Secondary"
+    ],
+    "applicableCategories": [
+      "Senior Secondary",
+      "Early Years",
+      "Primary",
+      "Junior Secondary"
+    ]
+  },
+  {
+    "id": "sub-1793102422032",
+    "code": "LIT",
+    "name": "Literature",
+    "department": "Humanities",
+    "description": "",
+    "applicableLevels": [
+      "Primary",
+      "Early Years"
+    ],
+    "applicableCategories": [
+      "Primary",
+      "Early Years"
+    ]
+  },
+  {
+    "id": "sub-1793102438053",
+    "code": "HIS",
+    "name": "History",
+    "department": "Humanities",
+    "description": "",
+    "applicableLevels": [
+      "Primary",
+      "Early Years"
+    ],
+    "applicableCategories": [
+      "Primary",
+      "Early Years"
+    ]
+  },
+  {
+    "id": "sub-1793103508261",
+    "code": "NUM",
+    "name": "Numeracy",
+    "department": "Humanities",
+    "description": "",
+    "applicableLevels": [
+      "Early Years"
+    ],
+    "applicableCategories": [
+      "Early Years"
+    ]
+  },
+  {
+    "id": "sub-1793103538030",
+    "code": "CIV",
+    "name": "Civic",
+    "department": "Humanities",
+    "description": "",
+    "applicableLevels": [
+      "Early Years"
+    ],
+    "applicableCategories": [
+      "Early Years"
+    ]
+  },
+  {
+    "id": "sub-1793103567283",
+    "code": "SHB",
+    "name": "Social Habit",
+    "department": "Humanities",
+    "description": "",
+    "applicableLevels": [
+      "Early Years"
+    ],
+    "applicableCategories": [
+      "Early Years"
+    ]
+  },
+  {
+    "id": "sub-1793103632364",
+    "code": "MRI",
+    "name": "Moral Instruction ",
+    "department": "Humanities",
+    "description": "",
+    "applicableLevels": [
+      "Early Years"
+    ],
+    "applicableCategories": [
+      "Early Years"
+    ]
+  },
+  {
+    "id": "sub-1793103658384",
+    "code": "CRT",
+    "name": "Creativity",
+    "department": "Humanities",
+    "description": "",
+    "applicableLevels": [
+      "Early Years"
+    ],
+    "applicableCategories": [
+      "Early Years"
+    ]
+  },
+  {
+    "id": "sub-1793103709321",
+    "code": "MUS",
+    "name": "Music",
+    "department": "Vocational & Tech",
+    "description": "",
+    "applicableLevels": [
+      "Early Years"
+    ],
+    "applicableCategories": [
+      "Early Years"
+    ]
+  },
+  {
+    "id": "sub-1793104434839",
+    "code": "RHY",
+    "name": "Rhyme",
+    "department": "Humanities",
+    "description": "",
+    "applicableLevels": [
+      "Early Years"
+    ],
+    "applicableCategories": [
+      "Early Years"
+    ]
+  },
+  {
+    "id": "sub-1793104468269",
+    "code": "PD",
+    "name": "Personal Development ",
+    "department": "Vocational & Tech",
+    "description": "",
+    "applicableLevels": [
+      "Early Years"
+    ],
+    "applicableCategories": [
+      "Early Years"
+    ]
+  },
+  {
+    "id": "sub-1793108315521",
+    "code": "HIS",
+    "name": "History",
+    "department": "Humanities",
+    "description": "",
+    "applicableLevels": [
+      "Junior Secondary"
+    ],
+    "applicableCategories": [
+      "Junior Secondary"
+    ]
+  }
+]

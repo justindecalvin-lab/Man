@@ -1,0 +1,6 @@
+{
+  "name": "Stanbax Schools Ibadan - Online Portal & Management System",
+  "description": "Official learning and school management portal for Stanbax Schools Ibadan featuring student, parent, tutor, and administrative portals, First Term 2026 midterm results, and Supabase cloud persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

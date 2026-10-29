@@ -1,0 +1,1256 @@
+[
+  {
+    "name": "Taofeek Fawas",
+    "regNumber": "STX/2026/141",
+    "grade": "SSS 2 Arts & Commercial",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 9,
+    "termAverage": 76.1,
+    "aliases": [
+      "Taofeek Fawas",
+      "STX/2026/141"
+    ]
+  },
+  {
+    "name": "Alabi Blessing",
+    "regNumber": "STX/2026/140",
+    "grade": "SSS 2 Science",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 8,
+    "termAverage": 80.0,
+    "aliases": [
+      "Alabi Blessing",
+      "STX/2026/140"
+    ]
+  },
+  {
+    "name": "Oladele Esther Ayomide",
+    "regNumber": "STX/2026/139",
+    "grade": "SSS 2 Arts & Commercial",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 9,
+    "termAverage": 87.2,
+    "aliases": [
+      "Oladele Esther Ayomide",
+      "STX/2026/139"
+    ]
+  },
+  {
+    "name": "Agboola Darasimi",
+    "regNumber": "STX/2026/138",
+    "grade": "Creche & Playgroup",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 11,
+    "aliases": [
+      "Agboola Darasimi",
+      "STX/2026/138"
+    ]
+  },
+  {
+    "name": "Oladipo",
+    "regNumber": "STX/2026/137",
+    "grade": "Creche & Playgroup",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 0,
+    "aliases": [
+      "Oladipo",
+      "STX/2026/137"
+    ]
+  },
+  {
+    "name": "Chidi Wealth",
+    "regNumber": "STX/2026/136",
+    "grade": "Creche & Playgroup",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 0,
+    "aliases": [
+      "Chidi Wealth",
+      "STX/2026/136"
+    ]
+  },
+  {
+    "name": "Balogun Richard",
+    "regNumber": "STX/2026/135",
+    "grade": "Creche & Playgroup",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 0,
+    "aliases": [
+      "Balogun Richard",
+      "STX/2026/135"
+    ]
+  },
+  {
+    "name": "Ajibowo Emmanuel",
+    "regNumber": "STX/2026/134",
+    "grade": "Creche & Playgroup",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 0,
+    "aliases": [
+      "Ajibowo Emmanuel",
+      "STX/2026/134"
+    ]
+  },
+  {
+    "name": "AlabiAde David",
+    "regNumber": "STX/2026/133",
+    "grade": "Creche & Playgroup",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 0,
+    "aliases": [
+      "AlabiAde David",
+      "STX/2026/133"
+    ]
+  },
+  {
+    "name": "Chidi Mirabel",
+    "regNumber": "STX/2026/132",
+    "grade": "Nursery",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 0,
+    "aliases": [
+      "Chidi Mirabel",
+      "STX/2026/132"
+    ]
+  },
+  {
+    "name": "Mustapha Morire",
+    "regNumber": "STX/2026/131",
+    "grade": "Nursery",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 0,
+    "aliases": [
+      "Mustapha Morire",
+      "STX/2026/131"
+    ]
+  },
+  {
+    "name": "Ezeani Mmesoma",
+    "regNumber": "STX/2026/130",
+    "grade": "Nursery",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 0,
+    "aliases": [
+      "Ezeani Mmesoma",
+      "STX/2026/130"
+    ]
+  },
+  {
+    "name": "Akeredolu Ilerioluwa",
+    "regNumber": "STX/2026/129",
+    "grade": "Nursery",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 0,
+    "aliases": [
+      "Akeredolu Ilerioluwa",
+      "STX/2026/129"
+    ]
+  },
+  {
+    "name": "Titcombe Ayobola",
+    "regNumber": "STX/2026/128",
+    "grade": "Nursery",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 0,
+    "aliases": [
+      "Titcombe Ayobola",
+      "STX/2026/128"
+    ]
+  },
+  {
+    "name": "Oluwaseyi Wilfred",
+    "regNumber": "STX/2026/127",
+    "grade": "Nursery",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 0,
+    "aliases": [
+      "Oluwaseyi Wilfred",
+      "STX/2026/127"
+    ]
+  },
+  {
+    "name": "Taofeek Basit",
+    "regNumber": "STX/2026/126",
+    "grade": "Primary 3",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 13,
+    "termAverage": 83.1,
+    "aliases": [
+      "Taofeek Basit",
+      "STX/2026/126"
+    ]
+  },
+  {
+    "name": "Babalola Boluwatife",
+    "regNumber": "STX/2026/125",
+    "grade": "Primary 3",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 13,
+    "termAverage": 79.0,
+    "aliases": [
+      "Babalola Boluwatife",
+      "STX/2026/125"
+    ]
+  },
+  {
+    "name": "Raheem Enoch",
+    "regNumber": "STX/2026/124",
+    "grade": "KG 1",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 11,
+    "termAverage": 93.2,
+    "aliases": [
+      "Raheem Enoch",
+      "STX/2026/124"
+    ]
+  },
+  {
+    "name": "Obi Elizabeth",
+    "regNumber": "STX/2026/123",
+    "grade": "KG 1",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 11,
+    "termAverage": 84.1,
+    "aliases": [
+      "Obi Elizabeth",
+      "STX/2026/123"
+    ]
+  },
+  {
+    "name": "Kehinde Darasimi",
+    "regNumber": "STX/2026/122",
+    "grade": "KG 1",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 11,
+    "termAverage": 82.7,
+    "aliases": [
+      "Kehinde Darasimi",
+      "STX/2026/122"
+    ]
+  },
+  {
+    "name": "Bello Matin",
+    "regNumber": "STX/2026/121",
+    "grade": "KG 1",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 11,
+    "termAverage": 86.4,
+    "aliases": [
+      "Bello Matin",
+      "STX/2026/121"
+    ]
+  },
+  {
+    "name": "Balogun Anabel",
+    "regNumber": "STX/2026/120",
+    "grade": "KG 1",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 11,
+    "termAverage": 98.6,
+    "aliases": [
+      "Balogun Anabel",
+      "STX/2026/120"
+    ]
+  },
+  {
+    "name": "Akinosho Tamim",
+    "regNumber": "STX/2026/119",
+    "grade": "KG 1",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 11,
+    "termAverage": 96.8,
+    "aliases": [
+      "Akinosho Tamim",
+      "STX/2026/119"
+    ]
+  },
+  {
+    "name": "Oniigho Vigor",
+    "regNumber": "STX/2026/118",
+    "grade": "JSS 2",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 11,
+    "termAverage": 84.1,
+    "aliases": [
+      "Oniigho Vigor",
+      "STX/2026/118",
+      "Onyigho Vigor"
+    ]
+  },
+  {
+    "name": "Oliva Afomachukwu",
+    "regNumber": "STX/2026/116",
+    "grade": "JSS 2",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 18.6,
+    "aliases": [
+      "Oliva Afomachukwu",
+      "STX/2026/116"
+    ]
+  },
+  {
+    "name": "Odubanjo Samuel",
+    "regNumber": "STX/2026/115",
+    "grade": "JSS 2",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 11,
+    "termAverage": 79.5,
+    "aliases": [
+      "Odubanjo Samuel",
+      "STX/2026/115"
+    ]
+  },
+  {
+    "name": "Azeez Haliyah",
+    "regNumber": "STX/2026/114",
+    "grade": "JSS 2",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 11,
+    "termAverage": 72.3,
+    "aliases": [
+      "Azeez Haliyah",
+      "STX/2026/114",
+      "Azeez Halliah"
+    ]
+  },
+  {
+    "name": "Ajibowo Jomiloju Ruth",
+    "regNumber": "STX/2026/113",
+    "grade": "JSS 2",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 11,
+    "termAverage": 82.3,
+    "aliases": [
+      "Ajibowo Jomiloju Ruth",
+      "STX/2026/113",
+      "Alibawo Jamiloju"
+    ]
+  },
+  {
+    "name": "Ajao Esther",
+    "regNumber": "STX/2026/112",
+    "grade": "JSS 2",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 11,
+    "termAverage": 87.7,
+    "aliases": [
+      "Ajao Esther",
+      "STX/2026/112",
+      "Alao Esther"
+    ]
+  },
+  {
+    "name": "Oladele Ayobami",
+    "regNumber": "STX/2026/110",
+    "grade": "JSS 2",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 11,
+    "termAverage": 85.9,
+    "aliases": [
+      "Oladele Ayobami",
+      "STX/2026/110"
+    ]
+  },
+  {
+    "name": "Oladipo Darasimi",
+    "regNumber": "STX/2026/109",
+    "grade": "SSS 1 ARTS",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 8,
+    "termAverage": 59.4,
+    "aliases": [
+      "Oladipo Darasimi",
+      "STX/2026/109",
+      "Oladiipo Darasimi Esther"
+    ]
+  },
+  {
+    "name": "Asimiyu Abdulsalam",
+    "regNumber": "STX/2026/108",
+    "grade": "SSS 1 ARTS",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 8,
+    "termAverage": 66.2,
+    "aliases": [
+      "Asimiyu Abdulsalam",
+      "STX/2026/108"
+    ]
+  },
+  {
+    "name": "Yekinni Zainab",
+    "regNumber": "STX/2026/107",
+    "grade": "SSS 1 ARTS",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 8,
+    "termAverage": 90.0,
+    "aliases": [
+      "Yekinni Zainab",
+      "STX/2026/107",
+      "Yekinni Zainab Ojuolape"
+    ]
+  },
+  {
+    "name": "Ezenwa Vivian",
+    "regNumber": "STX/2026/106",
+    "grade": "SSS 1 Science",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 7,
+    "termAverage": 74.3,
+    "aliases": [
+      "Ezenwa Vivian",
+      "STX/2026/106"
+    ]
+  },
+  {
+    "name": "Yekinni Omotoyosi",
+    "regNumber": "STX/2026/105",
+    "grade": "SSS 1 Science",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 7,
+    "termAverage": 88.6,
+    "aliases": [
+      "Yekinni Omotoyosi",
+      "STX/2026/105",
+      "Yekinni Omotoyosi Oreduwa"
+    ]
+  },
+  {
+    "name": "Adeniyi Moses",
+    "regNumber": "STX/2026/104",
+    "grade": "SSS 1 Science",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 7,
+    "termAverage": 93.6,
+    "aliases": [
+      "Adeniyi Moses",
+      "STX/2026/104",
+      "Adeniyi Moses Ipepemi"
+    ]
+  },
+  {
+    "name": "Odubanjo Irewamiri",
+    "regNumber": "STX/2026/103",
+    "grade": "SSS 1 Science",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 7,
+    "termAverage": 74.3,
+    "aliases": [
+      "Odubanjo Irewamiri",
+      "STX/2026/103"
+    ]
+  },
+  {
+    "name": "David Abayomi",
+    "regNumber": "SBS/2026/KG2/001",
+    "grade": "KG 2",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 12,
+    "termAverage": 88.8,
+    "aliases": [
+      "David Abayomi",
+      "SBS/2026/KG2/001"
+    ]
+  },
+  {
+    "name": "Oladayo Olaniyi",
+    "regNumber": "SBS/2026/KG2/002",
+    "grade": "KG 2",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 12,
+    "termAverage": 83.3,
+    "aliases": [
+      "Oladayo Olaniyi",
+      "SBS/2026/KG2/002"
+    ]
+  },
+  {
+    "name": "Bryan Babalola",
+    "regNumber": "SBS/2026/KG2/003",
+    "grade": "KG 2",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 12,
+    "termAverage": 77.1,
+    "aliases": [
+      "Bryan Babalola",
+      "SBS/2026/KG2/003"
+    ]
+  },
+  {
+    "name": "Jemimal Alabiade",
+    "regNumber": "SBS/2026/KG2/004",
+    "grade": "KG 2",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 12,
+    "termAverage": 76.2,
+    "aliases": [
+      "Jemimal Alabiade",
+      "SBS/2026/KG2/004"
+    ]
+  },
+  {
+    "name": "Azeez Aisha",
+    "regNumber": "SBS/2026/KG2/005",
+    "grade": "KG 2",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 12,
+    "termAverage": 76.2,
+    "aliases": [
+      "Azeez Aisha",
+      "SBS/2026/KG2/005"
+    ]
+  },
+  {
+    "name": "Ajibowo Ire",
+    "regNumber": "SBS/2026/KG2/006",
+    "grade": "KG 2",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 12,
+    "termAverage": 66.2,
+    "aliases": [
+      "Ajibowo Ire",
+      "SBS/2026/KG2/006"
+    ]
+  },
+  {
+    "name": "Adaramola Sindara",
+    "regNumber": "SBS/2026/PRY1/001",
+    "grade": "Primary 1",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 11,
+    "termAverage": 74.1,
+    "aliases": [
+      "Adaramola Sindara",
+      "SBS/2026/PRY1/001"
+    ]
+  },
+  {
+    "name": "Testimony Abenghe",
+    "regNumber": "SBS/2026/PRY1/002",
+    "grade": "Primary 1",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 11,
+    "termAverage": 69.5,
+    "aliases": [
+      "Testimony Abenghe",
+      "SBS/2026/PRY1/002"
+    ]
+  },
+  {
+    "name": "Odubanjo Micheal",
+    "regNumber": "SBS/2026/PRY2/001",
+    "grade": "Primary 2",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 13,
+    "termAverage": 82.3,
+    "aliases": [
+      "Odubanjo Micheal",
+      "SBS/2026/PRY2/001",
+      "Odubanjo Michael"
+    ]
+  },
+  {
+    "name": "Tamara Abayomi",
+    "regNumber": "SBS/2026/PRY2/002",
+    "grade": "Primary 2",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 13,
+    "termAverage": 93.5,
+    "aliases": [
+      "Tamara Abayomi",
+      "SBS/2026/PRY2/002",
+      "Abayomi Tamara"
+    ]
+  },
+  {
+    "name": "Daralis Daramola",
+    "regNumber": "SBS/2026/PRY2/003",
+    "grade": "Primary 2",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 84.5,
+    "aliases": [
+      "Daralis Daramola",
+      "SBS/2026/PRY2/003"
+    ]
+  },
+  {
+    "name": "John Mercy",
+    "regNumber": "SBS/2026/PRY2/004",
+    "grade": "Primary 2",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 13,
+    "termAverage": 76.5,
+    "aliases": [
+      "John Mercy",
+      "SBS/2026/PRY2/004"
+    ]
+  },
+  {
+    "name": "Ajayi Ayomikun",
+    "regNumber": "SBS/2026/PRY2/005",
+    "grade": "Primary 2",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 13,
+    "termAverage": 91.5,
+    "aliases": [
+      "Ajayi Ayomikun",
+      "SBS/2026/PRY2/005"
+    ]
+  },
+  {
+    "name": "Obi Ebuka",
+    "regNumber": "SBS/2026/PRY2/006",
+    "grade": "Primary 2",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 13,
+    "termAverage": 80.4,
+    "aliases": [
+      "Obi Ebuka",
+      "SBS/2026/PRY2/006",
+      "Obi Ebuka Samuel"
+    ]
+  },
+  {
+    "name": "Adeniyi David",
+    "regNumber": "SBS/2026/PRY2/007",
+    "grade": "Primary 2",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 13,
+    "termAverage": 88.1,
+    "aliases": [
+      "Adeniyi David",
+      "SBS/2026/PRY2/007"
+    ]
+  },
+  {
+    "name": "Ondigho Divine",
+    "regNumber": "SBS/2026/PRY2/008",
+    "grade": "Primary 2",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 89,
+    "aliases": [
+      "Ondigho Divine",
+      "SBS/2026/PRY2/008"
+    ]
+  },
+  {
+    "name": "Alabi Darasimi",
+    "regNumber": "SBS/2026/PRY3/001",
+    "grade": "Primary 3",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 13,
+    "termAverage": 58.5,
+    "aliases": [
+      "Alabi Darasimi",
+      "SBS/2026/PRY3/001"
+    ]
+  },
+  {
+    "name": "Mustapha Nathaniel",
+    "regNumber": "SBS/2026/PRY3/002",
+    "grade": "Primary 3",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 13,
+    "termAverage": 87.3,
+    "aliases": [
+      "Mustapha Nathaniel",
+      "SBS/2026/PRY3/002"
+    ]
+  },
+  {
+    "name": "Oliver Zion",
+    "regNumber": "SBS/2026/PRY3/003",
+    "grade": "Primary 3",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 13,
+    "termAverage": 77.3,
+    "aliases": [
+      "Oliver Zion",
+      "SBS/2026/PRY3/003"
+    ]
+  },
+  {
+    "name": "Azeez Ryan",
+    "regNumber": "SBS/2026/PRY3/004",
+    "grade": "Primary 3",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 13,
+    "termAverage": 82.3,
+    "aliases": [
+      "Azeez Ryan",
+      "SBS/2026/PRY3/004"
+    ]
+  },
+  {
+    "name": "Anakwe Ebube",
+    "regNumber": "SBS/2026/PRY4/001",
+    "grade": "Primary 4",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 14.2,
+    "aliases": [
+      "Anakwe Ebube",
+      "SBS/2026/PRY4/001"
+    ]
+  },
+  {
+    "name": "Feyikemi Raheem",
+    "regNumber": "SBS/2026/PRY4/002",
+    "grade": "Primary 4",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 11.8,
+    "aliases": [
+      "Feyikemi Raheem",
+      "SBS/2026/PRY4/002"
+    ]
+  },
+  {
+    "name": "Ajibowo Mosinmiloluwa",
+    "regNumber": "SBS/2026/PRY4/003",
+    "grade": "Primary 4",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 14.9,
+    "aliases": [
+      "Ajibowo Mosinmiloluwa",
+      "SBS/2026/PRY4/003"
+    ]
+  },
+  {
+    "name": "Olaniyi Joel",
+    "regNumber": "SBS/2026/PRY4/004",
+    "grade": "Primary 4",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 15.2,
+    "aliases": [
+      "Olaniyi Joel",
+      "SBS/2026/PRY4/004"
+    ]
+  },
+  {
+    "name": "Gbengbe Christiana",
+    "regNumber": "SBS/2026/PRY4/005",
+    "grade": "Primary 5",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 13.2,
+    "aliases": [
+      "Gbengbe Christiana",
+      "SBS/2026/PRY4/005"
+    ]
+  },
+  {
+    "name": "Testimony Ohidi",
+    "regNumber": "SBS/2026/PRY5/002",
+    "grade": "Primary 4",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 16.5,
+    "aliases": [
+      "Testimony Ohidi",
+      "SBS/2026/PRY5/002"
+    ]
+  },
+  {
+    "name": "Osimachi Ofamalru",
+    "regNumber": "SBS/2026/PRY5/003",
+    "grade": "Primary 4",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 16,
+    "aliases": [
+      "Osimachi Ofamalru",
+      "SBS/2026/PRY5/003"
+    ]
+  },
+  {
+    "name": "Idiaghe Iyobosa",
+    "regNumber": "SBS/2026/JSS1/001",
+    "grade": "JSS 1",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 12,
+    "termAverage": 75.4,
+    "aliases": [
+      "Idiaghe Iyobosa",
+      "SBS/2026/JSS1/001"
+    ]
+  },
+  {
+    "name": "Adeniyi Paul",
+    "regNumber": "SBS/2026/JSS1/002",
+    "grade": "JSS 1",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 10,
+    "termAverage": 84.5,
+    "aliases": [
+      "Adeniyi Paul",
+      "SBS/2026/JSS1/002"
+    ]
+  },
+  {
+    "name": "Titcombe Ayodeji",
+    "regNumber": "SBS/2026/JSS1/003",
+    "grade": "JSS 1",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 12,
+    "termAverage": 60.0,
+    "aliases": [
+      "Titcombe Ayodeji",
+      "SBS/2026/JSS1/003"
+    ]
+  },
+  {
+    "name": "Ada Anakwae",
+    "regNumber": "SBS/2026/JSS1/004",
+    "grade": "JSS 1",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 12,
+    "termAverage": 94.2,
+    "aliases": [
+      "Ada Anakwae",
+      "SBS/2026/JSS1/004"
+    ]
+  },
+  {
+    "name": "Ademumi Demilade",
+    "regNumber": "SBS/2026/JSS1/005",
+    "grade": "JSS 1",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 12,
+    "termAverage": 88.8,
+    "aliases": [
+      "Ademumi Demilade",
+      "SBS/2026/JSS1/005"
+    ]
+  },
+  {
+    "name": "Mustapha Irewamiri",
+    "regNumber": "SBS/2026/JSS1/006",
+    "grade": "JSS 1",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 12,
+    "termAverage": 84.6,
+    "aliases": [
+      "Mustapha Irewamiri",
+      "SBS/2026/JSS1/006"
+    ]
+  },
+  {
+    "name": "Unaji Vincent",
+    "regNumber": "SBS/2026/JSS1/007",
+    "grade": "JSS 1",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 12,
+    "termAverage": 88.3,
+    "aliases": [
+      "Unaji Vincent",
+      "SBS/2026/JSS1/007"
+    ]
+  },
+  {
+    "name": "Oladipo Samuel",
+    "regNumber": "SBS/2026/JSS1/008",
+    "grade": "JSS 1",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 12,
+    "termAverage": 83.3,
+    "aliases": [
+      "Oladipo Samuel",
+      "SBS/2026/JSS1/008",
+      "Oladipo Samuel Gbolahan"
+    ]
+  },
+  {
+    "name": "Ndubisi Victor",
+    "regNumber": "SBS/2026/JSS3/001",
+    "grade": "JSS 3",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 83,
+    "aliases": [
+      "Ndubisi Victor",
+      "SBS/2026/JSS3/001"
+    ]
+  },
+  {
+    "name": "Titcombe Ayomide",
+    "regNumber": "SBS/2026/JSS3/002",
+    "grade": "JSS 3",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 84.5,
+    "aliases": [
+      "Titcombe Ayomide",
+      "SBS/2026/JSS3/002"
+    ]
+  },
+  {
+    "name": "Amulo Samuel",
+    "regNumber": "SBS/2026/JSS3/003",
+    "grade": "JSS 3",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 86,
+    "aliases": [
+      "Amulo Samuel",
+      "SBS/2026/JSS3/003"
+    ]
+  },
+  {
+    "name": "Izuagbe Mercy",
+    "regNumber": "SBS/2026/JSS3/004",
+    "grade": "JSS 3",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 86,
+    "aliases": [
+      "Izuagbe Mercy",
+      "SBS/2026/JSS3/004"
+    ]
+  },
+  {
+    "name": "Unaji Immaculate",
+    "regNumber": "SBS/2026/JSS3/005",
+    "grade": "JSS 3",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 87.5,
+    "aliases": [
+      "Unaji Immaculate",
+      "SBS/2026/JSS3/005"
+    ]
+  },
+  {
+    "name": "Okwuchukwu Oluchi",
+    "regNumber": "SBS/2026/JSS3/006",
+    "grade": "JSS 3",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 89,
+    "aliases": [
+      "Okwuchukwu Oluchi",
+      "SBS/2026/JSS3/006"
+    ]
+  },
+  {
+    "name": "Adaramola Ayooluwa",
+    "regNumber": "SBS/2026/JSS3/007",
+    "grade": "JSS 3",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 89,
+    "aliases": [
+      "Adaramola Ayooluwa",
+      "SBS/2026/JSS3/007"
+    ]
+  },
+  {
+    "name": "Adeshina Solomon",
+    "regNumber": "SBS/2026/JSS3/008",
+    "grade": "JSS 3",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 90.5,
+    "aliases": [
+      "Adeshina Solomon",
+      "SBS/2026/JSS3/008"
+    ]
+  },
+  {
+    "name": "Anakwae Ifechukwu Henry",
+    "regNumber": "SBS/2026/JSS3/009",
+    "grade": "JSS 3",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 92,
+    "aliases": [
+      "Anakwae Ifechukwu Henry",
+      "SBS/2026/JSS3/009"
+    ]
+  },
+  {
+    "name": "Bello Mordiyah",
+    "regNumber": "SBS/2026/SS2/001",
+    "grade": "SSS 2 Science",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 8,
+    "termAverage": 73.1,
+    "aliases": [
+      "Bello Mordiyah",
+      "SBS/2026/SS2/001"
+    ]
+  },
+  {
+    "name": "Kafilat Balogun",
+    "regNumber": "SBS/2026/SS2/003",
+    "grade": "SSS 2 Science",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 9,
+    "termAverage": 84.4,
+    "aliases": [
+      "Kafilat Balogun",
+      "SBS/2026/SS2/003"
+    ]
+  },
+  {
+    "name": "Amina Bello",
+    "regNumber": "STX/2024/101",
+    "grade": "JSS 1",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 12,
+    "termAverage": 76.2,
+    "aliases": [
+      "Amina Bello",
+      "STX/2024/101",
+      "Osuntoyinbo Obabi"
+    ]
+  },
+  {
+    "name": "Kenechukwu Nnamdi",
+    "regNumber": "STX/2024/102",
+    "grade": "JSS 1",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 18,
+    "termAverage": 88.1,
+    "aliases": [
+      "Kenechukwu Nnamdi",
+      "STX/2024/102",
+      "Daramola Darasimi"
+    ]
+  },
+  {
+    "name": "Ezeani victor",
+    "regNumber": "SBS/2026/PRY5/001",
+    "grade": "Primary 4",
+    "password": "stanbax2025",
+    "hasMidtermScores": false,
+    "midtermSubjectCount": 0,
+    "termAverage": 15.8,
+    "aliases": [
+      "Ezeani victor",
+      "SBS/2026/PRY5/001"
+    ]
+  },
+  {
+    "name": "Adeshina Darasimi",
+    "regNumber": "SBS/2026/JSS2/007",
+    "grade": "JSS 2",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 11,
+    "termAverage": 85.9,
+    "aliases": [
+      "Adeshina Darasimi",
+      "SBS/2026/JSS2/007"
+    ]
+  },
+  {
+    "name": "Izuagbe Elizabeth",
+    "regNumber": "STX/2026/111",
+    "grade": "JSS 2",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 11,
+    "termAverage": 85.0,
+    "aliases": [
+      "Izuagbe Elizabeth",
+      "STX/2026/111"
+    ]
+  },
+  {
+    "name": "Oliver Afomachukwu",
+    "regNumber": "STX/2026/180",
+    "grade": "JSS 2",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 11,
+    "termAverage": 90.0,
+    "aliases": [
+      "Oliver Afomachukwu"
+    ]
+  },
+  {
+    "name": "Onygho Divine",
+    "regNumber": "STX/2026/181",
+    "grade": "Primary 2",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 13,
+    "termAverage": 85.4,
+    "aliases": [
+      "Onygho Divine"
+    ]
+  },
+  {
+    "name": "Ezenwa Uchechukwu",
+    "regNumber": "STX/2026/182",
+    "grade": "SSS 3",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 8,
+    "termAverage": 97.5,
+    "aliases": [
+      "Ezenwa Uchechukwu"
+    ]
+  },
+  {
+    "name": "Iteji Favour",
+    "regNumber": "STX/2026/183",
+    "grade": "SSS 3",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 8,
+    "termAverage": 96.9,
+    "aliases": [
+      "Iteji Favour"
+    ]
+  },
+  {
+    "name": "Ademijoke David",
+    "regNumber": "STX/2026/184",
+    "grade": "SSS 3",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 8,
+    "termAverage": 98.1,
+    "aliases": [
+      "Ademijoke David"
+    ]
+  },
+  {
+    "name": "Ejionye Chidubem",
+    "regNumber": "STX/2026/185",
+    "grade": "SSS 3",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 6,
+    "termAverage": 98.3,
+    "aliases": [
+      "Ejionye Chidubem"
+    ]
+  },
+  {
+    "name": "Okwuchukwu Onyedika",
+    "regNumber": "STX/2026/186",
+    "grade": "SSS 3",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 7,
+    "termAverage": 93.6,
+    "aliases": [
+      "Okwuchukwu Onyedika"
+    ]
+  },
+  {
+    "name": "Adeleke Joshua",
+    "regNumber": "STX/2026/187",
+    "grade": "SSS 3",
+    "password": "stanbax2025",
+    "hasMidtermScores": true,
+    "midtermSubjectCount": 7,
+    "termAverage": 92.9,
+    "aliases": [
+      "Adeleke Joshua"
+    ]
+  }
+]
